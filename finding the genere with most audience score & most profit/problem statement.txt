@@ -1,0 +1,1 @@
+Data analysis starts with a question or an issue. Using this movie dataset, an analyst can answer questions such as “What genre of movie gets the best audience scores?” or “Which movie studio produced the most revenue 

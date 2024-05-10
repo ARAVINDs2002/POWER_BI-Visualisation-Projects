@@ -1,0 +1,1 @@
+There are certain animal giants called BIGFOOT that lives in cold areas,so th excel file give us data about the whole world of bigfoot sightings,so as an analyst  the manager has told you to make a dash board based on sightings of big foot by months in a specific region called Kentucky.
